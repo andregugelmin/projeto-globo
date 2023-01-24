@@ -6,3 +6,9 @@ Primeiro projeto front-end, com o objetivo de começar a aprender HTML e CSS, on
 
 ***
 
+## :computer:	 Tecnologias
+
+- HTML
+- CSS
+
+***
